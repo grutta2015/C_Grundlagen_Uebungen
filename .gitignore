@@ -1,0 +1,30 @@
+# Visual Studio
+.vs/
+
+# Carpetas de compilación
+Debug/
+Release/
+x64/
+
+# Archivos temporales de Visual Studio
+*.suo
+*.user
+*.vc.db
+*.VC.db
+*.opendb
+*.vsidx
+
+# Logs y temporales
+*.log
+*.tlog
+
+# Objetos e información de depuración
+*.obj
+*.ilk
+*.pdb
+*.ipdb
+*.iobj
+
+# Archivos generados de compilación
+*.recipe
+*.lastbuildstate
